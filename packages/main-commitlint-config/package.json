@@ -1,0 +1,14 @@
+{
+  "name": "main-commitlint-config",
+  "version": "1.0.0",
+  "description": "commitlint规范",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}
